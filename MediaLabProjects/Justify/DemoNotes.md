@@ -1,19 +1,31 @@
 # Potential Adopters
 
+## KSG 
+
 Tomorrow with a Harvard professor at Kennedy School of Government.
 Our meeting will be after this but I'm hoping for at least 1 other meeting of that type
 in the near term with a MIT-Harvard prof. of a, I suspect, similar bent.
-And in D.C. Apr 14, 15:
 
-B. Dept Of energy office of Advance Manufacturing.
+## And in D.C. Apr 14, 15:
+
+## DOE
+
+Dept Of energy office of Advance Manufacturing.
 The kinds of decisions they're interested in supporting are:
 - What "areas" should we be funding
 - Which specific proposals should we be funding.
-C. World Bank
+
+
+## World Bank
+
 Engaging citizen in developing nations in assessing public policy
-D. Deloitte: specifically a team that is funded to write a report for the federal gov
+
+## Deloitte: 
+
+specifically a team that is funded to write a report for the federal gov
 on what the workforce of the government will look like in 2025
-E: NYU GovLabs, which you know better than I.
+
+## NYU GovLabs, which you know better than I.
  
 # Which of Above is Most Likely to Adopt
 
