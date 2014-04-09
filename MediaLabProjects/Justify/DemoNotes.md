@@ -39,6 +39,10 @@ b) they are well suited to open a collaboration because they have the resources 
 fry sez: I've had good communications with DOE and Deloitte so far leading up to the events
 so that speaks well to continued collaboration.
 
+## What is the priority order for adopters
+
+https://github.com/LegalScience/ComputationalLegalScienceStudies/blob/master/MediaLabProjects/Justify/AdoptionPriorityNotes.md
+
 # what are the main ways Justify could be used by the stakeholders 
 
 (not necessarily the one's footing the bill or pushing a collaboration, but stakeholder in the sense that they are deeply involved and would have a stake in the process and/or outcome of the process of using Justify) eg business partners of who you are meeting with, or maybe their employees, or if the meeting was with a television production company, maybe the key stakeholders are the audience of their media outlet or maybe their advertisers or maybe the staff of the show, etc  
